@@ -1,0 +1,6 @@
+[
+    {"Name":"osTicket","Url":"http://localhost:8080"},
+    {"Name":"LLDAP","Url":"http://localhost:17170"},
+    {"Name":"Uptime Kuma","Url":"http://localhost:3001"},
+    {"Name":"Azure Portfolio","Url":"https://orange-plant-0676ffb00.3.azurestaticapps.net"}
+  ]

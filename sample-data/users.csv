@@ -1,0 +1,6 @@
+Username,Department,Enabled,Groups
+alice.employee,Finance,true,VPN-Users;Finance-Read
+ben.employee,IT,true,Helpdesk;VPN-Users
+chloe.employee,Sales,false,VPN-Users
+dev.employee,Finance,true,VPN-Users
+emma.employee,Sales,true,Finance-Read
